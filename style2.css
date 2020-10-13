@@ -1,0 +1,8 @@
+*{margin: 0;padding: 0;box-sizing: border-box;
+font-family: 'Sansita Swashed', cursive;}
+.big-banner{
+	background-image: url("images/cc5.jpg");
+	background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
